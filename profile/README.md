@@ -1,7 +1,21 @@
+![hero](github.png)
 
+<p align="center">
+	<h1 align="center"><b>LocaleNLP</b></h1>
+<p align="center">
+    Bridging Languages, Empowering Lives.
+    <br />
+    <br />
+    <a href="https://localenlp.com/anPiuRx">Discord</a>
+    ·
+    <a href="https://localenlp.com">Website</a>
+    ·
+    <a href="https://github.com/LocaleNLP/localenlp/issues">Issues</a>
+  </p>
+</p>
 # LocaleNLP
 
-**Empowering Communities Through Language Technology**
+**Bridging Languages, Empowering Lives.**
 
 ---
 
